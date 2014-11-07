@@ -1,6 +1,6 @@
 # [Sewise Cut Player](http://www.sewise.com/) 
 
-![Screenshot](https://github.com/jackzhang1204/sewise-subtitles/raw/master/sewise_cut_player.jpg)
+![Screenshot](https://raw.githubusercontent.com/jackzhang1204/sewise-cut-player/master/sewise_cut_player.jpg)
 
 ## What is Sewise Cut Player?
 
